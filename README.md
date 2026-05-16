@@ -82,8 +82,8 @@ User → Streamlit UI → FastAPI API → ML Model → Prediction
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/<your-username>/<repo-name>.git](https://github.com/MohnishDevaraj/Real-Estate-Price-Prediction-Chennai.git
+cd Real-Estate-Price-Prediction-Chennai
 ```
 
 ### 2️⃣ Create virtual environment
