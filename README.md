@@ -121,14 +121,16 @@ streamlit run streamlit_app.py
 
 ---
 
-## 📸 Screenshots
+## 📸 Application Screenshots
 
-> _Add screenshots here:_
+### Home Page
+![Home Page](screenshots/home.png)
 
-- EDA graphs (Price distribution, Sqft vs Price)
-- Feature importance plot
-- Streamlit UI
-- Prediction output
+### Login Page
+![Login Page](screenshots/Login.png)
+
+### Prediction Result
+![Prediction Result](screenshots/prediction.png)
 
 ---
 
