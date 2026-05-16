@@ -124,13 +124,13 @@ streamlit run streamlit_app.py
 ## 📸 Application Screenshots
 
 ### Home Page
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/Home.png)
 
 ### Login Page
 ![Login Page](screenshots/Login.png)
 
 ### Prediction Result
-![Prediction Result](screenshots/prediction.png)
+![Prediction Result](screenshots/Predict.png)
 
 ---
 
